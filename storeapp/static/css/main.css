@@ -1,0 +1,17 @@
+header {
+    background: wheat url('../images/logo.png') 10px center no-repeat;
+    border-bottom: 1px solid #ccc;
+    height: 70px;
+    width: 100%;
+
+}
+form {
+    position: relative;
+    left: 1300px;
+    top: 30px;
+       
+}
+body {
+    margin: 0;
+    padding: 0;
+}
