@@ -1,0 +1,1 @@
+- Development of an ecommerce project using django web development framework
